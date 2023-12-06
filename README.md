@@ -1,4 +1,4 @@
-# Garbage Detection System
+# Garbage Monitoring System
 created by group-4 for the course 'Embedded Systems and IoT'.
 
 Group 4 members:
