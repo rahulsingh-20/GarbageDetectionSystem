@@ -43,3 +43,6 @@ The system includes an ultrasonic sensor that is connected to an ESP8266 board. 
 
 ![Screenshot from 2023-12-07 04-50-34](https://github.com/rahulsingh-20/GarbageDetectionSystem/assets/76691609/68aff6d2-11ec-4f6b-a864-29297515a511)
 
+## Demonstration video
+
+https://drive.google.com/file/d/192v2f0acF1me_tjzxvFuoUBeAiwgEwkw/view?usp=sharing
